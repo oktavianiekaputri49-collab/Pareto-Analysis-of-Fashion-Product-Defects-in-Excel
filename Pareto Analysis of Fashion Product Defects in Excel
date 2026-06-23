@@ -1,0 +1,62 @@
+Pareto Analysis of Fashion Product Defects in Excel
+Project Overview:
+This project analyzes common defects found in fashion products using the Pareto Principle (80/20 Rule) and Microsoft Excel. The goal is to identify the most frequent defects and determine which issues should be prioritized for quality improvement.
+
+Dataset:
+The dataset contains defect categories and their frequencies:
+Defect Category	Frequency
+Easy to Tear	10
+Loose Stitching	7
+Color Fading	5
+Easily Stretched	3
+Peeling Print	1
+
+Objectives:
+Identify the most common defects in fashion products.
+Apply Pareto Analysis to determine priority issues.
+Visualize defect frequencies and cumulative percentages.
+Support quality control decision-making.
+
+Tools Used:
+Microsoft Excel
+Pareto Chart
+Data Visualization Techniques
+
+Analysis Process:
+Collect defect frequency data.
+Sort defects from highest to lowest frequency.
+Calculate cumulative frequency.
+Calculate cumulative percentage.
+Create a Pareto Chart in Excel.
+Interpret results based on the 80/20 principle.
+
+Key Findings:
+Easy to Tear is the most common defect.
+Loose Stitching and Color Fading are the next major issues.
+The top three defect categories contribute to the majority of quality problems.
+Focusing improvement efforts on these defects can significantly enhance product quality.
+
+Visualization
+The project includes a Pareto Chart showing:
+Defect frequency (bars)
+Cumulative percentage (line)
+This visualization helps identify critical defects that should receive immediate attention.
+
+Business Insights
+By addressing the most frequent defects first, fashion manufacturers can:
+Reduce product returns
+Improve customer satisfaction
+Increase product durability
+Optimize quality control resources
+
+Future Improvements:
+Analyze larger datasets.
+Compare defect trends across multiple product categories.
+Build an interactive dashboard using Excel or Power BI.
+Apply statistical quality control methods.
+
+Author:
+Oktaviani Eka Putri
+Statistics Student | Data Analysis Enthusiast
+
+#excel #pareto-chart #data-analysis #quality-control #statistics #data-visualization #fashion-industry #business-analytics #portfolio-project #microsoft-excel
